@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 //                setInterpolatorCustomer(imageView.getTranslationY(), 500);
 //                setInterpolatorOne(imageView.getTranslationY(), 500);
-//                setInterpolatorTwo(imageView.getTranslationY(), 500);
 
 //                testOne();
 //                testTwo();
